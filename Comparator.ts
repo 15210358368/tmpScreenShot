@@ -1,4 +1,3 @@
-import { ComparisionType } from "./enum";
 import { OCRComparator } from "./OCRComparator";
 import { PixelComparator } from "./PixelComparator";
 import { SuperModeComparator } from "./SuperModeComparator";
